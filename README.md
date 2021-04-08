@@ -9,4 +9,14 @@
         3. CSS Class Selector
         4. CSS Universal Selector
         5. CSS attribute Selector
+
+ # CSS Combinators
+ A combinator is something that explains the relationship between the selectors.
+CSS selector can contain more than one simple selector. Between the simple selectors, we can include a combinator.
+
+# There are four different combinators in CSS:
+       1.descendant selector (space)
+       2.child selector (>)
+       3.adjacent sibling selector (+)
+       4.general sibling selector (~)       
    

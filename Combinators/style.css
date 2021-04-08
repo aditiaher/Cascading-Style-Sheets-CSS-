@@ -1,0 +1,16 @@
+/* Child Sibling Selector */
+h2 + p {
+    font-weight: bold;
+}
+/*descendant selector*/
+section p{
+    background-color: rosybrown;
+}
+/*general sibling selector*/
+h2 ~ p {
+    color: tomato;
+}
+/*child selector*/
+div > p{
+    text-decoration: underline;
+}
