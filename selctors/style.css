@@ -1,0 +1,35 @@
+div{
+    color: rgb(248, 139, 15);
+    
+}
+p{
+    color: tomato;
+}
+h1{
+    text-align: center;
+}
+/*universal selector*/
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*changes using class selectors*/
+.big{
+    font-size: 15pt;
+}
+.bold{
+    font-weight: 500;
+}
+/*changesusing id selector */
+/* you should not give one id to many attributes as it is not a good practice instead of that we can use class to assign to multiple attributes*/
+
+#sec{
+    background-color:yellowgreen;
+}
+#cs{
+    background-color: slategray;
+
+}
+#ec{
+    background: rosybrown;
+
+}
