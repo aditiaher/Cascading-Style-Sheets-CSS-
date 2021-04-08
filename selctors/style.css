@@ -33,3 +33,9 @@ h1{
     background: rosybrown;
 
 }
+/*Attribute Selector*/
+a[target]{
+    text-decoration: underline;
+    background-color: salmon;
+
+}
